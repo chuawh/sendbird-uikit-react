@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.5.1-alpha] (Dec 10 2021)
+
+This is an alpha version release for bugfix
+
 ## [2.5.0] (Nov 23 2021)
 
 - Features
